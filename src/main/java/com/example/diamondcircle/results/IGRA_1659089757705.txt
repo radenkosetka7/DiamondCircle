@@ -1,0 +1,24 @@
+Igrac 1 - Player2
+	Figura5 ( Lebdeca figura , ZUTA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 38 - 30 - 22 - 22 - 16 - 10 - 11 - 11 - 19 - 27 - 33 - 33 - 39 - 31 - 23 - 23 - 17 - 18 - 26 - 32 - 32 - 24 - 25 - 25 -  )  stigla do cilja - da
+	Figura6 ( Super brza figura , ZUTA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 - 32 - 24 - 25 -  )  stigla do cilja - da
+	Figura7 ( Obicna figura , ZUTA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 -  )  stigla do cilja - ne
+	Figura8 ( Lebdeca figura , ZUTA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 - 32 - 24 - 25 -  )  stigla do cilja - da
+
+
+Igrac 2 - Player3
+	Figura9 ( Super brza figura , ZELENA ) -predjeni put  ( 4 - 12 - 20 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 -  )  stigla do cilja - ne
+	Figura10 ( Lebdeca figura , ZELENA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 - 32 - 24 - 25 -  )  stigla do cilja - da
+	Figura11 ( Obicna figura , ZELENA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 -  )  stigla do cilja - ne
+	Figura12 ( Obicna figura , ZELENA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 - 32 - 24 - 25 -  )  stigla do cilja - da
+
+
+Igrac 3 - Player1
+	Figura1 ( Obicna figura , CRVENA ) -predjeni put  ( 4 - 12 - 20 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 30 - 22 - 16 - 16 - 10 - 11 - 19 - 27 - 27 - 33 - 39 - 39 - 31 - 23 - 17 - 17 - 18 - 26 - 32 - 24 - 24 - 25 -  )  stigla do cilja - da
+	Figura2 ( Lebdeca figura , CRVENA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 - 32 - 24 - 25 -  )  stigla do cilja - da
+	Figura3 ( Super brza figura , CRVENA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 - 32 - 24 - 25 -  )  stigla do cilja - da
+	Figura4 ( Lebdeca figura , CRVENA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 - 32 - 24 - 25 -  )  stigla do cilja - da
+
+
+
+
+Ukupno vrijeme trajanja igre: 325[s]

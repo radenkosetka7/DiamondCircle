@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="anchorpane" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: grey;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.diamondcircle.MainController">
+        <children>
+            <GridPane fx:id="Matrica" gridLinesVisible="true" layoutX="270.0" layoutY="150.0" prefHeight="300.0" prefWidth="300.0">
+            </GridPane>
+            <Text fill="red" layoutX="349.0" layoutY="33.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-size: 18; -fx-font-weight: bold" text="DiamondCircle" wrappingWidth="127.13671875" />
+            <Label fx:id="brojIgara" layoutX="54.0" layoutY="53.0" style="-fx-font-size: 12;-fx-text-fill: blue" text="Trenutni broj odigranih igara: " />
+            <Button fx:id="start" layoutX="589.0" layoutY="45.0" mnemonicParsing="false" onAction="#pokreniSimulaciju" prefHeight="32.0" prefWidth="154.0" style="-fx-background-color: white; -fx-border-color: black;" text="POKRENI" textFill="blue" visible="true" />
+            <Button fx:id="pause" layoutX="589.0" layoutY="45.0" mnemonicParsing="false" onAction="#pauzirajSimulaciju" prefHeight="32.0" prefWidth="154.0" style="-fx-background-color: white; -fx-border-color: black;" text="PAUZA" textFill="blue" visible="false" />
+            <GridPane fx:id="players" layoutX="316.0" layoutY="106.0" />
+            <ListView fx:id="figuresList" layoutX="58.0" layoutY="145.0" nodeOrientation="LEFT_TO_RIGHT" onMouseClicked="#showFigureMovement" prefHeight="407.0" prefWidth="150.0">
+            </ListView>
+            <Label fx:id="cardDescription" layoutX="376.0" layoutY="495.0" style="-fx-font-family: Arial;-fx-text-fill: blue;-fx-font-size: 14" text="Opis znacenja karte: " />
+            <Label fx:id="time" layoutX="613.0" layoutY="455.0" style="-fx-text-fill: blue; -fx-font-family: Arial;" text="Vrijeme trajanja igre: " />
+            <Label fx:id="currentCard" layoutX="613.0" layoutY="167.0" style="-fx-text-fill: blue; -fx-font-family: Arial; -fx-font-size:14; -fx-font-weight: bold" text="Trenutna karta: " />
+            <Button fx:id="results" layoutX="616.0" layoutY="521.0" mnemonicParsing="false" onAction="#showResults" prefHeight="62.0" prefWidth="109.0" style="-fx-background-color: wheat; -fx-border-color: black; -fx-wrap-text: true;" text="Prikaz liste fajlova sa rezultatima" textAlignment="CENTER" textFill="blue" />
+            <TextArea fx:id="description" editable="false" layoutX="305.0" layoutY="527.0" prefHeight="62.0" prefWidth="263.0" wrapText="true" />
+            <ImageView fx:id="TreutnaKarta" fitHeight="231.0" fitWidth="138.0" layoutX="613.0" layoutY="207.0" pickOnBounds="true" preserveRatio="true" />
+        </children>
+    </AnchorPane>

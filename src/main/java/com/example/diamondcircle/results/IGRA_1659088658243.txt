@@ -1,0 +1,17 @@
+Igrac 1 - Player1
+	Figura1 ( Lebdeca figura , ZUTA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 40 - 46 - 38 - 38 - 30 - 22 - 16 - 10 - 10 - 11 - 19 - 27 - 27 - 33 - 39 - 31 - 31 - 23 - 17 - 18 - 18 - 26 - 32 - 24 - 25 - 25 -  )  stigla do cilja - da
+	Figura2 ( Lebdeca figura , ZUTA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 - 32 - 24 - 25 -  )  stigla do cilja - da
+	Figura3 ( Super brza figura , ZUTA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 - 32 - 24 - 25 -  )  stigla do cilja - da
+	Figura4 ( Super brza figura , ZUTA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 - 32 - 24 - 25 -  )  stigla do cilja - da
+
+
+Igrac 2 - Player2
+	Figura5 ( Obicna figura , PLAVA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 34 - 40 - 46 - 46 - 38 - 30 - 22 - 16 - 16 - 10 - 11 - 19 - 19 - 27 - 33 - 33 - 39 - 31 - 23 - 17 - 17 - 18 - 26 - 32 - 24 - 24 - 25 -  )  stigla do cilja - da
+	Figura6 ( Lebdeca figura , PLAVA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 - 32 - 24 - 25 -  )  stigla do cilja - da
+	Figura7 ( Lebdeca figura , PLAVA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 - 32 - 24 - 25 -  )  stigla do cilja - da
+	Figura8 ( Obicna figura , PLAVA ) -predjeni put  ( 4 - 12 - 20 - 28 - 34 - 40 - 46 - 38 - 30 - 22 - 16 - 10 - 11 - 19 - 27 - 33 - 39 - 31 - 23 - 17 - 18 - 26 - 32 - 24 - 25 -  )  stigla do cilja - da
+
+
+
+
+Ukupno vrijeme trajanja igre: 239[s]
