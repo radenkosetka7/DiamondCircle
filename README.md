@@ -2,7 +2,7 @@
 
 Application specification
 
-A simple desktop application Diamond Circle game. 
+A simple desktop application tha represents Diamond Circle game. 
 The game takes place on a matrix of minimum dimensions 7x7, a
 maximum 10x10. The game is played by a maximum of 4 players, and a minimum of 2. Dimensions of the die and number
 of the player are set before starting the application itself. It is necessary to validate the user
